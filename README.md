@@ -1,1 +1,1 @@
-This is a DLL project to handle persistent settings in the Windows registry and/or a settings file, and also top parse command line args.
+A C# DLL project for console applications to parse command-line args, and handle persistent settings in the Windows registry and/or a settings file.
